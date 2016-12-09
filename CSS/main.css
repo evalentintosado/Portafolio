@@ -1,0 +1,66 @@
+/*Dev - Ediberto */
+
+    body{
+        font-family: 'Ravi Prakash', cursive;
+        background-color:beige;
+        color:darkblue;
+}
+#wrapper{
+    max-width: 940px;
+    margin: 0 auto;
+    padding: 0 2%;
+}           
+    ul{list-style: none;
+    } 
+
+a{
+    text-decoration: none}
+}
+/*esta es la etiqueta para quitar los bullets*/
+
+div
+{ 
+    border-style:none;
+}
+
+#fotos{
+    padding:0px;
+    margin-left:0px;
+    background-color: lightblue;
+}
+
+.img-resp{
+
+    max-width: 100%;
+}
+header{background-color:lightsalmon;}
+
+
+/*****************
+    NAVEGACION
+*****************/
+
+nav{
+    padding: 10px 0;
+    margin-top: 5px;
+    background-color:floralwhite;
+    text-align: center;
+}
+
+nav ul{
+    list-style: none;
+    margin: 0 10px;
+    padding: 0;
+}
+
+nav li{
+    display:inline-block;
+    padding: 10px;
+    border-radius: 50px;
+    border-style: solid;
+}
+
+nava a{
+    font-weight: 800;
+    padding: 15px 10px;
+}
